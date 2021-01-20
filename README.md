@@ -4,3 +4,8 @@ This is a PyTorch implementation of ['EndoNet: A Deep Architecture for Recogniti
 
 ## Dataset
 [Cholec80](http://camma.u-strasbg.fr/datasets) 
+
+## Flow Chart
+
+
+## Preprocessing
