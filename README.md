@@ -1,5 +1,5 @@
 # EndoNet (phase recognition)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VEYl0OOwb2EO8BY5MexFFuBkV8of19Iu)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/173hlAgXzTPb1Sn7jjDEElt_WajBXiuLN?usp=sharing)
 
 This is a PyTorch implementation of ['EndoNet: A Deep Architecture for Recognition Tasks on Laparoscopic Videos'(2016)](https://arxiv.org/abs/1602.03012) by Twinanda et al. on Google Colab.
 
