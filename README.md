@@ -5,6 +5,10 @@ This is a PyTorch implementation of ['EndoNet: A Deep Architecture for Recogniti
 ## Dataset
 [Cholec80](http://camma.u-strasbg.fr/datasets) 
 
+This dataset contains:
+* 80 videos of cholecystectomy surgeries captured at 25 fps
+* Annotations with the phase (at 25 fps) and tool presence (at 1 fps).
+
 ## Flow Chart
 The whole architecture of this project
 
