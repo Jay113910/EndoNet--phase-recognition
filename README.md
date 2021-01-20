@@ -11,7 +11,7 @@ The whole architecture of this project
 ![flow chart](https://github.com/CF-Cao/EndoNet--phase-recognition/blob/main/images/Flow-chart.png?raw=true)
 
 ## Preprocessing
-There some tasks in the preprocessing step, including:
+There are some tasks in the preprocessing step, including:
 * Extract the frames from videos and the labels from label files
 * Build the training and testing dataset
 
