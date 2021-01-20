@@ -6,6 +6,14 @@ This is a PyTorch implementation of ['EndoNet: A Deep Architecture for Recogniti
 [Cholec80](http://camma.u-strasbg.fr/datasets) 
 
 ## Flow Chart
+The whole architecture of this project
 
+![flow chart](https://github.com/CF-Cao/EndoNet--phase-recognition/blob/main/images/Flow-chart.png?raw=true)
 
 ## Preprocessing
+There some tasks in the preprocessing step, including:
+* Extract the frames from videos and the labels from label files
+* Build the training and testing dataset
+
+## Model training
+The EndoNet model is based on the AlexNet.
